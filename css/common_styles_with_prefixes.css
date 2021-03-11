@@ -53,6 +53,12 @@ body {
     text-align: center;
     letter-spacing: 0.05em;
 }
+@font-face {
+    font-family: "Big John";
+    src: url(../fonts/BIG\ JOHN.otf) format("opentype");
+    font-style: normal; 
+    font-weight: normal; 
+}
 /* ************************************************************** */
 
 /* ************************************************************** */
